@@ -11,3 +11,4 @@ Si se supero 21 se muestra mensaje que se ha perdido la partida y si se coinicde
 - javascript
 
 ## 🌐 Ver app en vivo
+https://juambeltz.github.io/blackJack/
