@@ -1,5 +1,3 @@
-# blackJack
-
 # :name_badge: BlackJack
 
 ## :newspaper: Descripción 
