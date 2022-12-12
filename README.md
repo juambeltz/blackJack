@@ -1,12 +1,12 @@
 # blackJack
 
-# :name_badge: blackJack
+# :name_badge: BlackJack
 
 ## :newspaper: Descripcion 
 Juego de Blackjack
 
 ## 🧠 Tecnologias usadas
--- javascript
+- javascript
 - html5
 - css
 
